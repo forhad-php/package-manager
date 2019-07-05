@@ -1,0 +1,4 @@
+- npm istall -g yo
+- npm install --global yo gulp-cli generator-webapp
+- yo webapp > Bootstrap > BDD
+- npm start
